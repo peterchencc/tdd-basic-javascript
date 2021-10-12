@@ -8,6 +8,7 @@
     "test": "jest --watchAll --verbose"
   },
   "devDependencies": {
+    "@types/jest": "^27.0.2",
     "vite": "^2.6.4"
   },
   "dependencies": {
